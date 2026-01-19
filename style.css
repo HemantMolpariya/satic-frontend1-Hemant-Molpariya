@@ -5,6 +5,10 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+body{
+       background : linear-gradient(135deg,#eef2f3,#d9a4f5);
+}
+
 /* Navbar */
 .navbar{
     background-color: #334155;
@@ -80,6 +84,7 @@
 /* Hover */
 .footer{
     background:#0f172a;
+    background-color: black;
     color: #ffffff;
     padding: 18px;
     font-size: 14px;
